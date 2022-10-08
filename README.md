@@ -1,4 +1,4 @@
-[<div align=center>
+<div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jooocy%20Github!&fontSize=90" />	
 </div>
 <div align=center>
@@ -17,14 +17,14 @@
 
   
 	
-	<br>
+ <br>
 
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=RaspberryPi&logoColor=white" />  
+  <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=RaspberryPi&logoColor=white" />  
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white" />
   
   <br>

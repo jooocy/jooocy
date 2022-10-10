@@ -52,8 +52,7 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooocy&layout=compact">
-	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=jooocy&show_icons=true">
+	
 
 ![jooocy's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=jooocy)
 

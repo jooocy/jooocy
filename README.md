@@ -48,15 +48,11 @@
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
-<div align=center>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
-</div>
+
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooocy&layout=compact">
+	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=jooocy&show_icons=true">
 
 ![jooocy's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=jooocy)

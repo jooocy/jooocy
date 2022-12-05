@@ -47,8 +47,3 @@
 
 <!-- ![jooocy's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=jooocy) -->
 
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joo2302)](https://solved.ac/joo2302)
-</div>
